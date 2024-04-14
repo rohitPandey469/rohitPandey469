@@ -37,11 +37,10 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div>
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitpandey469&show_icons=true&locale=en&layout=compact" alt="rohitpandey469" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitpandey469&show_icons=true&locale=en" alt="rohitpandey469" /></p>
-
+<div style="display:flex;justify-content:space-between;align-items:center;">    
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitpandey469&show_icons=true&locale=en&layout=compact" alt="rohitpandey469" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rohitpandey469&show_icons=true&locale=en" alt="rohitpandey469" /></p>
+</div> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitpandey469&" alt="rohitpandey469" /></p>
 </div>
 
