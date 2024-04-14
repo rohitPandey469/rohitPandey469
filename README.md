@@ -1,7 +1,8 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rohitpandey469&label=Profile%20views&color=0e75b6&style=flat" alt="rohitpandey469" /> </p>
+
 <h1 align="center">Hi 👋, I'm Rohit Pandey</h1>
 <h3 align="center">A "super-good" Web MAKER</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitpandey469&label=Profile%20views&color=0e75b6&style=flat" alt="rohitpandey469" /> </p>
 
 - 🔭 I’m currently working on **Robust Backend**
 
