@@ -36,7 +36,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rohit-pandey-2500b6215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-pandey-2500b6215" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rohit_n_d_b_td" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rd8614196" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rohit_n_d_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rd8614196" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_rohit._n.d.b.td" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Your Instagram" height="30" width="40" /></a>
 </p>
 <br/>
