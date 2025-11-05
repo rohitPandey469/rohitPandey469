@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Robust Backend**
 
-- 👨‍💻 All of my projects are available at [https://dev-portfolio-rohitpandey469-1.netlify.app](https://dev-portfolio-rohitpandey469-1.netlify.app)
+- 👨‍💻 All of my projects are available at [https://rohitdev.tech](https://rohitdev.tech)
 
 - 💬 Ask me about **React, Node, CP**
 
@@ -27,7 +27,7 @@
   <a href="mailto:rd8614196@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://dev-portfolio-rohitpandey469-1.netlify.app" target="_blank">
+  <a href="https://rohitdev.tech" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -37,7 +37,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rohit-pandey-2500b6215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-pandey-2500b6215" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rohit_n_d_b_td" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rd8614196" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_rohit._n.d.b.td" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Your Instagram" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rohittt_pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Your Instagram" height="30" width="40" /></a>
 </p>
 <br/>
 <br/>
