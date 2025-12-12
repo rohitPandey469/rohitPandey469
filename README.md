@@ -1,60 +1,133 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rohitpandey469&label=Profile%20views&color=0e75b6&style=flat" alt="rohitpandey469" /> </p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=rohitpandey469&label=Profile%20views&color=0e75b6&style=flat" alt="rohitpandey469" />
+</p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rohit+Pandey!❤️;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3500&lines=Hi+There!;I'm+Rohit+Pandey.;Software+Engineer+%7C+Backend+%26+Full+Stack+Developer" />
 </h1>
-<h3 align="center">A "super-good" Web MAKER from India</h3>
 
-<div>
-  
-- 🔭 I’m currently working on **Robust Backend**
+<h3 align="center">Entry-Level Software Engineer • Strong DSA • Backend-First Developer • Actively Seeking SDE/SWE Roles</h3>
+<h4 align="center">If you are hiring for entry-level Software Engineer / SDE-1 roles, feel free to reach out.</h4>
 
-- 🌱 I’m currently learning **Sol&Pytorch**
+---
 
-- 👯 I’m looking to collaborate on **Robust Backend**
+### 👨‍💻 About Me  
+- Final-year B.Tech (CSE – AIML), graduating **June 2026**  
+- Building **scalable backend systems, distributed services, and production-grade web apps**  
+- Strong foundation in **Data Structures & Algorithms** (LeetCode 1780+)  
+- Currently learning **System Design, high-scalability patterns, microservices & cloud architectures**  
+- Open to **SDE Intern**, **SDE-1 (University/Graduate)**, **Software Engineer Trainee**, **Backend Engineer**, and **Full-Stack Developer** roles
 
-- 🤝 I’m looking for help with **Robust Backend**
+I am looking for **entry-level engineering roles** where I can contribute to real-world products, solve technical challenges, and grow under strong engineering teams.
 
-- 👨‍💻 All of my projects are available at [https://rohitdev.tech](https://rohitdev.tech)
+---
 
-- 💬 Ask me about **React, Node, CP**
+### 🚀 What I’m Working On  
+- Designing **high-performance backend architectures** (Node.js/Nest.js)  
+- Building **production-ready systems**—caching, rate-limiting, background jobs, queues  
+- Improving **low-latency APIs** and exploring scalable design trade-offs  
+- Advanced DSA + competitive programming  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11_yP-FfCjbDmn55va4uuLoBF10Ehm_gy/view](https://drive.google.com/file/d/11_yP-FfCjbDmn55va4uuLoBF10Ehm_gy/view)
+---
 
-- ⚡ Fun fact **I am good with keys/.**
-</div>
+### 🤝 What I’m Looking To Collaborate On  
+- Large-scale backend systems  
+- Full-stack SaaS products  
+- Open-source (React/Node/Infra/Any)
+
+---
+
+### 📁 Portfolio & Resume  
+- Portfolio: **https://rohitdev.tech**  
+- Resume: [View Here](https://drive.google.com/file/d/1tqkkGUn03gHUkF7oQNBTZbdAoaNt2otD/view?usp=sharing)
+
+---
+
+### 📫 Contact Me  
 <div align="center"> 
-  <a href="mailto:rd8614196@gmail.com">
+  <a href="mailto:hire.rohitpandey@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://rohitdev.tech" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
-<br/>
-<br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohit-pandey-2500b6215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-pandey-2500b6215" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rohit_n_d_b_td" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rd8614196" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rohittt_pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Your Instagram" height="30" width="40" /></a>
+
+---
+
+### 🌐 Connect With Me  
+<p>
+<a href="https://linkedin.com/in/rohit-pandey-2500b6215" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/rohit_n_d_b_td" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rohittt_pandey" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
-<br/>
-<br/>
-<h3 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h3>
-<p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a></p>
-<br/>
+
+---
+
+<h3 align="left">⚒️ Languages • Frameworks • Tools ⚒️</h3>
+
+<p align="center">
+
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" />
+
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gsap/gsap-original.svg" width="45" />
+
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rest/rest-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="45" />
+
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45" />
+
+  <!-- Cloud & DevOps -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45" />
+
+  <!-- Tools -->
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" />
+
+  <!-- Currently Learning -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="45" />
+
+</p>
 <hr/>
+
+### 🐍 Contributions  
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rohitPandey469/rohitPandey469/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-<h2 align="center">⚡ Stats ⚡</h2>
-<div style="display: flex; flex-wrap: wrap;">  
-  <p style="flex: 0 0 100%;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitpandey469&show_icons=true&locale=en&layout=compact" alt="rohitpandey469" /></p>
-  <p style="flex: 0 0 100%;"><img src="https://github-readme-stats.vercel.app/api?username=rohitpandey469&show_icons=true&locale=en" alt="rohitpandey469" /></p>
-  <p style="flex: 0 0 100%;"><img style="display: block; margin: 0 auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitpandey469&" alt="rohitpandey469" /></p>
-</div>
+  <img src="https://raw.githubusercontent.com/rohitPandey469/rohitPandey469/output/github-contribution-grid-snake.svg" alt="snake" />
+<br/><br/><br/> </div>
+
+<h2 align="center">⚡ Stats ⚡</h2> <div style="display: flex; flex-wrap: wrap;"> <p style="flex: 0 0 100%;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitpandey469&show_icons=true&locale=en&layout=compact" alt="rohitpandey469" /></p> <p style="flex: 0 0 100%;"><img src="https://github-readme-stats.vercel.app/api?username=rohitpandey469&show_icons=true&locale=en" alt="rohitpandey469" /></p> <p style="flex: 0 0 100%;"><img style="display: block; margin: 0 auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitpandey469&" alt="rohitpandey469" /></p> </div>
